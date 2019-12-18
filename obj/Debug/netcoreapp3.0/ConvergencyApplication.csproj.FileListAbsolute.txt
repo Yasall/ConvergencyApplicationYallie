@@ -1,0 +1,11 @@
+C:\Users\Snake\source\repos\ConvergencyApplication\bin\Debug\netcoreapp3.0\ConvergencyApplication.exe
+C:\Users\Snake\source\repos\ConvergencyApplication\bin\Debug\netcoreapp3.0\ConvergencyApplication.deps.json
+C:\Users\Snake\source\repos\ConvergencyApplication\bin\Debug\netcoreapp3.0\ConvergencyApplication.runtimeconfig.json
+C:\Users\Snake\source\repos\ConvergencyApplication\bin\Debug\netcoreapp3.0\ConvergencyApplication.runtimeconfig.dev.json
+C:\Users\Snake\source\repos\ConvergencyApplication\bin\Debug\netcoreapp3.0\ConvergencyApplication.dll
+C:\Users\Snake\source\repos\ConvergencyApplication\bin\Debug\netcoreapp3.0\ConvergencyApplication.pdb
+C:\Users\Snake\source\repos\ConvergencyApplication\obj\Debug\netcoreapp3.0\ConvergencyApplication.csprojAssemblyReference.cache
+C:\Users\Snake\source\repos\ConvergencyApplication\obj\Debug\netcoreapp3.0\ConvergencyApplication.AssemblyInfoInputs.cache
+C:\Users\Snake\source\repos\ConvergencyApplication\obj\Debug\netcoreapp3.0\ConvergencyApplication.AssemblyInfo.cs
+C:\Users\Snake\source\repos\ConvergencyApplication\obj\Debug\netcoreapp3.0\ConvergencyApplication.dll
+C:\Users\Snake\source\repos\ConvergencyApplication\obj\Debug\netcoreapp3.0\ConvergencyApplication.pdb
